@@ -36,6 +36,11 @@ Data Visualization (Matplotlib, Seaborn)
 
 <img width="585" alt="image" src="https://github.com/user-attachments/assets/99dd68f5-56e9-4976-a7eb-c1249b2e8ae3" />
 
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/fa48018c-3ed5-43fd-ada7-f374237a242a" />
+
+
+
+
 
 
 
