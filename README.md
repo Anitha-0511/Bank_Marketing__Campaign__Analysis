@@ -18,13 +18,16 @@ https://drive.google.com/file/d/1RXd7kM4dqfblxBUQBxHORyeSD9qTABd9/v
 iew?usp=drive_link
 
 **Tools & Technologies**
-
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
-
 Jupyter Notebook
-
 Machine Learning Models (Logistic Regression, Decision Trees, Random Forest, etc.)
-
 Data Visualization (Matplotlib, Seaborn)
+
+
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/ed483b81-1169-46f4-9036-602e5d54476e" />
+
+
+
+
 
 
